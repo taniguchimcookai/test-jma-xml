@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
+  <title>高頻度（随時）</title>
+  <subtitle>JMAXML publishing feed</subtitle>
+  <updated>2023-05-24T18:40:22+09:00</updated>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_1684921222</id>
+  <link rel="related" href="https://www.jma.go.jp/"/>
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
+  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <rights type="html"><![CDATA[
+<a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
+<a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
+]]></rights>
+  <entry>
+    <title>台風解析・予報情報（３日予報）</title>
+    <id>https://github.com/rayhan-munshi/test-git-page/raw/main/15_10_03_160628_VPWW53.xml</id>
+    <updated>2023-05-24T09:40:08Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://github.com/rayhan-munshi/test-git-page/raw/main/15_10_03_160628_VPWW53.xml"/>
+    <content type="text">【台風解析・予報情報】</content>
+  </entry>
+  <entry>
+    <title>台風解析・予報情報（５日予報）（Ｈ３０）</title>
+    <id>https://github.com/rayhan-munshi/test-git-page/raw/main/62_02_01_130906_VPNO50.xml</id>
+    <updated>2023-05-24T09:40:08Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://github.com/rayhan-munshi/test-git-page/raw/main/62_02_01_130906_VPNO50.xml"/>
+    <content type="text">【台風解析・予報情報】</content>
+  </entry>
+
+</feed>
