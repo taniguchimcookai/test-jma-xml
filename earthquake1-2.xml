@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
+<Control>
+<Title>震源・震度に関する情報</Title>
+<DateTime>2024-04-03T00:04:05Z</DateTime>
+<Status>通常</Status>
+<EditorialOffice>大阪管区気象台</EditorialOffice>
+<PublishingOffice>気象庁</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+<Title>震源・震度情報</Title>
+<ReportDateTime>2024-04-03T09:04:00+09:00</ReportDateTime>
+<TargetDateTime>2024-04-03T09:04:00+09:00</TargetDateTime>
+<EventID>20240403085834</EventID>
+<InfoType>発表</InfoType>
+<Serial>1</Serial>
+<InfoKind>地震情報</InfoKind>
+<InfoKindVersion>1.0_1</InfoKindVersion>
+<Headline>
+<Text>　３日０８時５８分ころ、地震がありました。</Text>
+<Information type="震源・震度に関する情報（細分区域）">
+<Item>
+<Kind><Name>震度４</Name></Kind>
+<Areas codeType="地震情報／細分区域">
+<Area><Name>沖縄県与那国島</Name><Code>806</Code></Area>
+</Areas>
+</Item>
+<Item>
+<Kind><Name>震度３</Name></Kind>
+<Areas codeType="地震情報／細分区域">
+<Area><Name>沖縄県石垣島</Name><Code>805</Code></Area>
+<Area><Name>沖縄県西表島</Name><Code>807</Code></Area>
+</Areas>
+</Item>
+</Information>
+<Information type="震源・震度に関する情報（市町村等）">
+<Item>
+<Kind><Name>震度４</Name></Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area><Name>与那国町</Name><Code>4738200</Code></Area>
+</Areas>
+</Item>
+<Item>
+<Kind><Name>震度３</Name></Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area><Name>石垣市</Name><Code>4720700</Code></Area>
+<Area><Name>竹富町</Name><Code>4738100</Code></Area>
+</Areas>
+</Item>
+</Information>
+</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
+<Earthquake>
+<OriginTime>2024-04-03T08:58:00+09:00</OriginTime>
+<ArrivalTime>2024-04-03T08:58:00+09:00</ArrivalTime>
+<Hypocenter>
+<Area>
+<Name>台湾付近</Name>
+<Code type="震央地名">900</Code>
+<jmx_eb:Coordinate description="北緯２３．８度　東経１２１．７度　ごく浅い" datum="日本測地系">+23.8+121.7+0/</jmx_eb:Coordinate>
+<NameFromMark>石垣島の西南西２５０ｋｍ付近</NameFromMark>
+<MarkCode type="震央補助">801</MarkCode>
+<Direction>西南西</Direction>
+<Distance unit="km">250</Distance>
+</Area>
+</Hypocenter>
+<jmx_eb:Magnitude type="Mj" description="Ｍ７．５">7.5</jmx_eb:Magnitude>
+</Earthquake>
+<Intensity>
+<Observation>
+<CodeDefine>
+<Type xpath="Pref/Code">地震情報／都道府県等</Type>
+<Type xpath="Pref/Area/Code">地震情報／細分区域</Type>
+<Type xpath="Pref/Area/City/Code">気象・地震・火山情報／市町村等</Type>
+<Type xpath="Pref/Area/City/IntensityStation/Code">震度観測点</Type>
+</CodeDefine>
+<MaxInt>4</MaxInt>
+<Pref><Name>沖縄県</Name><Code>47</Code><MaxInt>4</MaxInt>
+<Area><Name>沖縄県与那国島</Name><Code>806</Code><MaxInt>4</MaxInt>
+<City><Name>与那国町</Name><Code>4738200</Code><MaxInt>4</MaxInt>
+<IntensityStation><Name>与那国町役場＊</Name><Code>4738230</Code><Int>4</Int></IntensityStation>
+<IntensityStation><Name>与那国町祖納</Name><Code>4738200</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>与那国町久部良</Name><Code>4738202</Code><Int>3</Int></IntensityStation>
+</City>
+</Area>
+<Area><Name>沖縄県石垣島</Name><Code>805</Code><MaxInt>3</MaxInt>
+<City><Name>石垣市</Name><Code>4720700</Code><MaxInt>3</MaxInt>
+<IntensityStation><Name>石垣市登野城</Name><Code>4720700</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>石垣市平久保</Name><Code>4720702</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>石垣市新栄町＊</Name><Code>4720720</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>石垣市真栄里＊</Name><Code>4720731</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>石垣市新川</Name><Code>4720701</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>石垣市伊原間＊</Name><Code>4720721</Code><Int>2</Int></IntensityStation>
+</City>
+</Area>
+<Area><Name>沖縄県西表島</Name><Code>807</Code><MaxInt>3</MaxInt>
+<City><Name>竹富町</Name><Code>4738100</Code><MaxInt>3</MaxInt>
+<IntensityStation><Name>竹富町大原</Name><Code>4738104</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>竹富町黒島</Name><Code>4738105</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>竹富町波照間</Name><Code>4738111</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>竹富町上原小学校</Name><Code>4738112</Code><Int>3</Int></IntensityStation>
+<IntensityStation><Name>竹富町上原青年会館＊</Name><Code>4738120</Code><Int>3</Int></IntensityStation>
+</City>
+</Area>
+<Area><Name>沖縄県宮古島</Name><Code>804</Code><MaxInt>2</MaxInt>
+<City><Name>宮古島市</Name><Code>4721400</Code><MaxInt>2</MaxInt>
+<IntensityStation><Name>宮古島市平良下里</Name><Code>4721400</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市城辺福北</Name><Code>4721402</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市平良池間</Name><Code>4721403</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市上野新里</Name><Code>4721405</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市伊良部前里添</Name><Code>4721406</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市平良狩俣＊</Name><Code>4721420</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市城辺福西＊</Name><Code>4721421</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市下地＊</Name><Code>4721435</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市上野支所＊</Name><Code>4721436</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市平良西里＊</Name><Code>4721438</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>宮古島市下地島空港＊</Name><Code>4721439</Code><Int>1</Int></IntensityStation>
+</City>
+<City><Name>多良間村</Name><Code>4737500</Code><MaxInt>2</MaxInt>
+<IntensityStation><Name>多良間村塩川</Name><Code>4737500</Code><Int>2</Int></IntensityStation>
+<IntensityStation><Name>多良間村仲筋＊</Name><Code>4737530</Code><Int>2</Int></IntensityStation>
+</City>
+</Area>
+</Pref>
+</Observation>
+</Intensity>
+<Comments>
+<ForecastComment codeType="固定付加文">
+<Text>津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中です。
+この地震について、緊急地震速報を発表しています。</Text>
+<Code>0211 0241</Code>
+</ForecastComment>
+<VarComment codeType="固定付加文">
+<Text>＊印は気象庁以外の震度観測点についての情報です。</Text>
+<Code>0262</Code>
+</VarComment>
+</Comments>
+</Body>
+</Report>
