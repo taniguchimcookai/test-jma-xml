@@ -3,7 +3,7 @@
   <title>高頻度（随時）</title>
   <subtitle>JMAXML publishing feed</subtitle>
   <updated>2023-05-24T18:40:22+09:00</updated>
-  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#psc2024051703shortt1_1684921222</id>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#psc2024051704shortt1_1684921222</id>
   <link rel="related" href="https://www.jma.go.jp/"/>
   <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
   <link rel="hub" href="http://alert-hub.appspot.com/"/>
@@ -14,12 +14,12 @@
   
   <entry>
     <title>台風解析・予報情報（５日予報）（Ｈ３０）</title>
-    <id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/weatherAlart1-1.xml#psc2024051703</id>
+    <id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/weatherAlart1-2.xml#psc2024051704</id>
     <updated>2023-05-24T09:40:08Z</updated>
     <author>
       <name>気象庁</name>
     </author>
-    <link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/weatherAlart1-1.xml#psc2024051703"/>
+    <link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/weatherAlart1-2.xml#psc2024051704"/>
     <content type="text">【台風解析・予報情報】</content>
   </entry>
 
