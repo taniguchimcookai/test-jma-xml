@@ -4,7 +4,7 @@
 <title>高頻度（地震火山）</title>
 <subtitle>JMAXML publishing feed</subtitle>
 <updated>2023-05-23T20:01:00+09:00</updated>
-<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2024042402short_1784839660</id>
+<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2024042403short_1784839660</id>
 <link rel="related" href="https://www.jma.go.jp/"/>
 <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
 <link rel="hub" href="http://alert-hub.appspot.com/"/>
@@ -13,12 +13,12 @@
 </rights>
 <entry>
 <title>津波警報・注意報・予報a</title>
-<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2024042402</id>
+<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2024042403</id>
 <updated>2023-05-23T11:00:00Z</updated>
 <author>
 <name>気象庁</name>
 </author>
-<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2024042402"/>
+<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2024042403"/>
 <content type="text">東日本大震災クラスの津波が来襲します。
 大津波警報・津波警報を発表しました。
 ただちに避難してください。</content>
@@ -26,12 +26,12 @@
 
 <entry>
 <title>震源・震度に関する情報</title>
-<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-2.xml#psc2024042402</id>
+<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-2.xml#psc2024042403</id>
 <updated>2024-04-17T14:19:18Z</updated>
 <author>
 <name>気象庁</name>
 </author>
-<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-2.xml#psc2024042402"/>
+<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-2.xml#psc2024042403"/>
 <content type="text">【震源・震度情報】１７日２３時１４分ころ、地震がありました。</content>
 </entry>
   
