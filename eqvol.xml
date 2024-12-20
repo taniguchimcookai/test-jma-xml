@@ -4,7 +4,7 @@
 <title>高頻度（地震火山）</title>
 <subtitle>JMAXML publishing feed</subtitle>
 <updated>2023-05-23T20:01:00+09:00</updated>
-<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2024122002</id>
+<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2024122003</id>
 <link rel="related" href="https://www.jma.go.jp/"/>
 <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
 <link rel="hub" href="http://alert-hub.appspot.com/"/>
@@ -26,12 +26,12 @@
 
 <entry>
 <title>震源・震度に関する情報</title>
-<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-1.xml#psc2024122002</id>
+<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-1.xml#psc2024122003</id>
 <updated>2024-04-17T14:19:18Z</updated>
 <author>
 <name>気象庁</name>
 </author>
-<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/earthquake1-1.xml#psc2024122002"/>
+<link type="application/xml" href="https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/20240101072429_0_VXSE53_010000.xml#psc2024122003"/>
 <content type="text">【震源・震度情報】１７日２３時１４分ころ、地震がありました。</content>
 </entry>
   
