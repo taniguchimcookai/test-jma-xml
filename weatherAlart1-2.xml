@@ -13,11 +13,11 @@
 <EventID/>
 <InfoType>発表</InfoType>
 <Serial/>
-<InfoKind>気象警報・注意報</InfoKind>
+<InfoKind>気象特別警報報知</InfoKind>
 <InfoKindVersion>1.1_2</InfoKindVersion>
 <Headline>
 <Text>岩手県の海上では、２０日夕方から２１日明け方まで暴風雪に警戒してください。</Text>
-<Information type="気象警報・注意報（府県予報区等）">
+<Information type="気象特別警報報知（府県予報区等）">
 <Item>
 <Kind>
 <Name>暴風雪特別警報</Name>
