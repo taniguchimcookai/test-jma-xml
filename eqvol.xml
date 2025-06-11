@@ -4,7 +4,7 @@
 <title>高頻度（地震火山）</title>
 <subtitle>JMAXML publishing feed</subtitle>
 <updated>2023-05-23T20:01:00+09:00</updated>
-<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2024122004</id>
+<id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#psc2025061101</id>
 <link rel="related" href="https://www.jma.go.jp/"/>
 <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
 <link rel="hub" href="http://alert-hub.appspot.com/"/>
@@ -13,7 +13,7 @@
 </rights>
 <entry>
 <title>津波警報・注意報・予報a</title>
-<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2024122001</id>
+<id>https://raw.githubusercontent.com/taniguchimcookai/test-jma-xml/main/tsunami1-1.xml#psc2025061101</id>
 <updated>2023-05-23T11:00:00Z</updated>
 <author>
 <name>気象庁</name>
